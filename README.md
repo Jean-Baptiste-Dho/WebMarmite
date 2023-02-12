@@ -2,7 +2,7 @@
 
 Date de création : 12/02/2023
 
-Créateurs/fondateurs : 
+Créateurs/fondateurs :<br>
 Jérome JOURDAN<br>
 Médéric CATAYE. https://github.com/MedericDev<br>
 Jean-Baptiste DHO. https://github.com/Jean-Baptiste-Dho<br>
